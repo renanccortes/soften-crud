@@ -9,7 +9,7 @@ utilizado pode ser o MySQL ou o MariaDB.
   - Primefaces 7.0
   - Hibernate 5.3 
   - MariaDB 10.2
-  - [AdminFaces] 1.1.0 - Utilizado para o Layout
+  - [AdminFaces Template] 1.1.0 - Utilizado para o Layout
  
 
 ### Configuração
@@ -55,5 +55,5 @@ Agora o sistema deve estar acessivel pelo navegador no endereço:
  Senha: @Admin2020    
 
  
-   [AdminFaces]: <https://github.com/adminfaces>
+   [AdminFaces Template]: <https://github.com/adminfaces/admin-template>
  
