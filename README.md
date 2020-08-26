@@ -32,12 +32,12 @@ docker run -p 3306:3306 --name soften-mariadb -e MYSQL_ROOT_PASSWORD=admin -e MY
 Agora acesse a página root do projeto e crie a imagem do payara com o war do projeto:
  ```sh
  cd soften-crud
-docker build -t soften-crud  
+docker build -t soften-crud-jsf .  
 ```
 
 Agora só executar a imagem criada:
  ```sh
- docker run -p 8080:8080 --name soften-crud soften-crud 
+ docker run -p 8080:8080 --name soften-crud soften-crud-jsf
  ```
 
 Agora o sistema deve estar acessivel pelo navegador no endereço:
