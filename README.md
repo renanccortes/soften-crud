@@ -8,6 +8,7 @@ utilizado pode ser o MySQL ou o MariaDB.
   - Java 8
   - Primefaces 7.0
   - Hibernate 5.3 
+  - MariaDB 10.2
   - [AdminFaces] 1.1.0 - Utilizado para o Layout
  
 
