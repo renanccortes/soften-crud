@@ -55,5 +55,5 @@ Agora o sistema deve estar acessivel pelo navegador no endereço:
  Senha: @Admin2020    
 
  
-   [AdminFaces]: <https://github.com/adminfaces>
+   [AdminFaces Template]: <https://github.com/adminfaces/admin-template>
  
