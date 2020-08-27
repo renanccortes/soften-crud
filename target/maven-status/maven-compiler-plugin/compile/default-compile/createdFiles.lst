@@ -1,6 +1,6 @@
 br\com\soften\tipos\TipoUsuario.class
-br\com\gecont\componente\UIDisablePanel$PropertyKeys.class
 br\com\soften\exception\DaoException.class
+br\com\soften\componente\UIDisablePanel$PropertyKeys.class
 br\com\soften\entidades\PedidoVenda.class
 br\com\soften\controle\ProdutoMB.class
 br\com\soften\util\CriptografaSenha.class
@@ -31,6 +31,7 @@ br\com\soften\controle\UsuarioMB.class
 br\com\soften\entidades\Usuario.class
 br\com\soften\entidades\Cliente.class
 br\com\soften\interceptors\ChecarPermissao.class
+br\com\soften\componente\UIDisablePanel.class
 br\com\soften\entidades\Login.class
 br\com\soften\controle\ICrudManagedBean.class
 br\com\soften\table\GenericLazyTable.class
@@ -38,7 +39,6 @@ br\com\soften\converters\ConversorValor.class
 br\com\soften\util\Validacoes.class
 br\com\soften\services\impl\UsuarioServiceImpl.class
 br\com\soften\validators\CpfCnpjConverter.class
-br\com\gecont\componente\UIDisablePanel.class
 br\com\soften\entidades\AcaoDoUsuario.class
 br\com\soften\entidades\PermissaoDeUsuario.class
 br\com\soften\controle\PedidoMB.class

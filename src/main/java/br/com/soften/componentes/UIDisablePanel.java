@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.gecont.componente;
+package br.com.soften.componente;
 
 import java.io.IOException;
 import javax.faces.component.FacesComponent;
@@ -20,7 +20,7 @@ import org.primefaces.model.TreeNode;
  *
  * @author Renan
  */
-@FacesComponent(value = "br.com.gecont.componente.UIDisablePanel", namespace = "http://gecont.com.br/g", tagName = "disablePanel", createTag = true)
+@FacesComponent(value = "br.com.soften.component.UIDisablePanel", namespace = "http://soften.com.br/s", tagName = "disablePanel", createTag = true)
 public class UIDisablePanel extends UIComponentBase {
 
     private enum PropertyKeys {
