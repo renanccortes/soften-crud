@@ -16,8 +16,8 @@ utilizado pode ser o MySQL ou o MariaDB.
 
 Altere os dados de conexão com o seu banco de dados no arquivo: src/META-INF/persistence.xml e compile o war novamente.
  ```sh
-<property name="javax.persistence.jdbc.url" value="jdbc:mysql://[SEU HOST]/softenbd"/> 
-<property name="javax.persistence.jdbc.user" value="[SEU USUARIO]"/> //
+<property name="javax.persistence.jdbc.url" value="jdbc:mysql://[SEU HOST]/softenbd"/>  //O Docker cria uma interface bridge com o ip que deve se colocar
+<property name="javax.persistence.jdbc.user" value="[SEU USUARIO]"/> 
 <property name="javax.persistence.jdbc.password" value="[SUA SENHA]"/>
 ```
  
