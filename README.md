@@ -9,6 +9,7 @@ utilizado pode ser o MySQL ou o MariaDB.
   - Primefaces 7.0
   - Hibernate 5.3 
   - MariaDB 10.2
+  - Payara 5
   - [AdminFaces Template] 1.1.0 - Utilizado para o Layout
  
 
